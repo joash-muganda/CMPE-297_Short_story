@@ -8,7 +8,7 @@ This repository explores **Context-Aware Multi-Agent Systems (CA-MAS)**, an adva
 ## Repository Contents
 ### Medium Article
 - A comprehensive article summarizing CA-MAS concepts, applications, and challenges.
-- **File:** `medium_article.md`
+- **Link:** [Unlocking Intelligence in Dynamic Systems: A Comprehensive Survey on Context-Aware Multi-Agent Systems](https://medium.com/@joash.muganda/unlocking-intelligence-in-dynamic-systems-a-comprehensive-survey-on-context-aware-multi-agent-a93ed4e4f2c9)
 
 ### Presentation Slides
 - A 10–15 minute presentation slide deck detailing the CA-MAS process and insights.
@@ -24,6 +24,8 @@ This repository explores **Context-Aware Multi-Agent Systems (CA-MAS)**, an adva
 ### Video Presentation
 - A recorded walkthrough summarizing the project findings.
 - **File:** `presentation.mp4`
+- **Placeholder for Explanation Videos:**  
+  Each section of this project includes a detailed video explanation. The placeholder for these videos will be added to their respective folders.
 
 ---
 
@@ -43,22 +45,6 @@ This repository explores **Context-Aware Multi-Agent Systems (CA-MAS)**, an adva
 - **Organizational Structures:** Federations and hierarchies for better scalability.
 - **Consensus Mechanisms:** Protocols for conflict resolution.
 - **Deep Reinforcement Learning Integration:** Adaptive learning for dynamic conditions.
-
----
-
-## How to Use
-1. **Explore the Article:** Start with `medium_article.md` for an in-depth understanding.
-2. **Review the Slides:** Open `slides.pdf` for a visual summary.
-3. **Download Visuals:** Access detailed graphics in the `visuals/` directory.
-4. **Watch the Video:** Play `presentation.mp4` for a concise walkthrough.
-
----
-
-## Contact
-For questions or collaboration opportunities, feel free to reach out:
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
 
 ---
 
