@@ -10,9 +10,9 @@ This repository explores **Context-Aware Multi-Agent Systems (CA-MAS)**, an adva
 - A comprehensive article summarizing CA-MAS concepts, applications, and challenges.
 - **Link:** [Unlocking Intelligence in Dynamic Systems: A Comprehensive Survey on Context-Aware Multi-Agent Systems](https://medium.com/@joash.muganda/unlocking-intelligence-in-dynamic-systems-a-comprehensive-survey-on-context-aware-multi-agent-a93ed4e4f2c9)
 
-### Presentation Slides
+### Presentation Slides With audio
 - A 10–15 minute presentation slide deck detailing the CA-MAS process and insights.
-- **File:** `slides.pdf`
+- **File:** `slides.ppt`
 
 ### Visuals
 - Rich illustrations, flowcharts, and tables covering:
@@ -20,12 +20,6 @@ This repository explores **Context-Aware Multi-Agent Systems (CA-MAS)**, an adva
   - Key techniques and challenges
   - Future research priorities
 - **Directory:** `visuals/`
-
-### Video Presentation
-- A recorded walkthrough summarizing the project findings.
-- **File:** `presentation.mp4`
-- **Placeholder for Explanation Videos:**  
-  Each section of this project includes a detailed video explanation. The placeholder for these videos will be added to their respective folders.
 
 ---
 
